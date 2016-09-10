@@ -13,3 +13,4 @@ The courses comprising the Data Science Specialization are:
 
 Git is easy. Git is fun. Thanks Linus!
 
+Some text added from RStudio
