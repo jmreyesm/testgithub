@@ -1,4 +1,6 @@
-Just a repo to learn how to us github and git for the DataScientist specialization course
+#Test purpose
+
+Just a repo to **learn how to use github and git** for the *Data Science Specialization* course
 
 The courses comprising the Data Science Specialization are:
 
